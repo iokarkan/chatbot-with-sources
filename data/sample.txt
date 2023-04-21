@@ -1,0 +1,8 @@
+This is a sample text file.
+It contains some fictional information.
+
+The capital of Lumeria is Lumina.
+The capital of Agardia is Argoth.
+The capital of Elysium is Eden.
+The capital of Mystaria is Crystalia.
+The capital of Oceania is Atlantis.
