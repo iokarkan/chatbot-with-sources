@@ -23,6 +23,12 @@ cd chatbot_project
 pip install -r requirements.txt
 ```
 
+3. Run the Gradio interface:
+
+```
+python -m app.gradio_interface
+```
+
 This will start a local server, and you can access the chatbot app in your web browser at http://localhost:7860.
 
 ## HuggingFace Space
