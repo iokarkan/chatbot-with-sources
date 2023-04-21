@@ -6,7 +6,7 @@ This project provides a simple chatbot that can load sources using Gradio and La
 
 [![Demo Video](https://img.youtube.com/vi/rKbipz38CkA/0.jpg)](https://www.youtube.com/watch?v=rKbipz38CkA)
 
-Click the image above to watch a video demonstration of the chatbot in action.
+Click the image above to watch a video demonstration of the chatbot in action. You can also read my blog [post](https://iokarkan.github.io/2023/04/18/chatbot-langchain-sources.html) on this app.
 
 ## Running the App
 
